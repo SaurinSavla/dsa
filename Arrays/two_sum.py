@@ -8,4 +8,4 @@ class Solution:
             if j in hashmap:
                 return [i, hashmap[j]]
             hashmap[nums[i]] = i
-        return []  
+        return []
